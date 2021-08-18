@@ -1,3 +1,15 @@
+This is a high-fidelity prototype of the Website that I designed and created for our Level 7 course Software Project at ARA. 
+The task was to redesign the website to increase its effectiveness at engaging with its target users. 
+This project involves gathering data from both the client and users. 
+It went through iterative process of prototyping and testing. 
+The key features that I added for the website were: 
+
+1. Arranging the information logically
+2. Adding gallery for the facility
+3. Adding Testimonial Section (in the bottom part of the About Us page)
+4. Adding Virtual Tour. 
+
+You can check the website by going to the following link:  https://project-optimus-5f32d.web.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
